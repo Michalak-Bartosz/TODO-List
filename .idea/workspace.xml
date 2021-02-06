@@ -50,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -169,6 +169,7 @@
       <workItem from="1611690806873" duration="341000" />
       <workItem from="1612538952731" duration="212000" />
       <workItem from="1612539176764" duration="7000" />
+      <workItem from="1612614023594" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="Werja 1.2 Aplikajci.&#10;Aplikacja przeszła testy i została zweryfikowana. Działa poprawnie.">
       <created>1611663431468</created>
@@ -261,10 +262,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609082991419" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1612539153025">
+    <state x="328" y="328" key="SettingsEditor" timestamp="1612614274072">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1612539153025" />
+    <state x="328" y="328" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1612614274072" />
     <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1611663441439">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -287,6 +288,7 @@
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1610807899667" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TODO_List$todoapp.coverage" NAME="todoapp Coverage Results" MODIFIED="1612614053069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TODO_List_aplikacja$tray.coverage" NAME="tray Coverage Results" MODIFIED="1609247313800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TODO_List_aplikacja$todoapp.coverage" NAME="todoapp Coverage Results" MODIFIED="1611691051927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
